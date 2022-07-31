@@ -5,10 +5,10 @@
 ## Our regexes
 
 * [OSC escape sequences](https://regexr.com/6qspk)
-* [ESC escape sequences](https://regexr.com/6qsr1)
+* [ESC escape sequences](https://regexr.com/6qsve)
 * [APC escape sequences](https://regexr.com/6qsrd)
 * [DCS escape sequences](https://regexr.com/6qsrm)
 * [CSC escape sequences](https://regexr.com/6qstf)
 * [PM escape sequences](https://regexr.com/6qsto)
 * [C1 escape sequences](https://regexr.com/6qsua)
-* [Mashup of all escape sequences](https://regexr.com/6qsup)
+* [Mashup of all escape sequences](https://regexr.com/6qsvb)
