@@ -5,3 +5,9 @@
 ## Our regexes
 
 * [OSC escape sequences](regexr.com/6qspk)
+* [ESC escape sequences](regexr.com/6qsr1)
+* [APC escape sequences](regexr.com/6qsrd)
+* [DCS escape sequences](regexr.com/6qsrm)
+* [CSC escape sequences](regexr.com/6qstf)
+* [PM escape sequences](regexr.com/6qsto)
+* [C1 escape sequences](regexr.com/6qsu1)
