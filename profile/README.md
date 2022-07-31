@@ -11,4 +11,4 @@
 * [CSC escape sequences](https://regexr.com/6qstf)
 * [PM escape sequences](https://regexr.com/6qsto)
 * [C1 escape sequences](https://regexr.com/6qsua)
-* [Mashup of all escape sequences](regexr.com/6qsup)
+* [Mashup of all escape sequences](https://regexr.com/6qsup)
