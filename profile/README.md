@@ -8,7 +8,7 @@
 
 ## Our parts
 
-* [Aptivi Archives](https://github.com/Aptivi-Analytics)
+* [Aptivi Archives](https://github.com/Aptivi-Archives)
 * [Aptivi Documentation](https://github.com/Aptivi-Docs)
 * [Aptivi Analytics](https://github.com/Aptivi-Analytics)
 
