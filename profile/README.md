@@ -1,4 +1,4 @@
-[![aptivi-written-transparent](https://user-images.githubusercontent.com/15963131/182020721-eab95050-96ad-40b5-87ac-6938a1c3c7e3.png)](https://aptivi.github.io)
+[![aptivi-written-logo-transparent-ios-banner](https://rawcdn.githack.com/Aptivi/.github/9f9688830c72ac6307a2f88e9c893861e62233f6/assets/aptivi-written-logo-transparent-ios-banner.png)](https://aptivi.github.io)
 
 <div align = center>
 
